@@ -1,4 +1,4 @@
-# Ecommerce
+# E-commerce
 Projeto de e-commerce básico desenvolvido durante o curso da origamid.
 
 ##Link do Projeto
