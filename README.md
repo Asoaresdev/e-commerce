@@ -21,7 +21,7 @@ Clonar o repositório.
 
 Entrar na pasta.
 
-No terminar, usar o comando 'npm start'.
+No terminal, usar o comando 'npm start'.
 
 Abrir no navegador [http://localhost:3000]
 
